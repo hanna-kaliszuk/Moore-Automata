@@ -1,5 +1,6 @@
 # moore_aut
 A simple simulation of a Moore automaton in C.
+Part of the Computer Architecture and Operating Systems course, realized in the summer semester of 2024/25 at the University of Warsaw.
 
 ## Description
 This is a dynamic allocated library that simulates a Moore automaton. It is a simple implementation of a Moore automaton 
