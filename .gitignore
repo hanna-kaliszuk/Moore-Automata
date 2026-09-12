@@ -1,0 +1,23 @@
+# Clion / IntelliJ
+.idea/
+*.iml
+.vscode/
+
+# CMake
+cmake-build-*/
+build/
+CMakeFiles/
+CMakeCache.txt
+cmake_install.cmake
+install_manifest.txt
+CTestTestfile.cmake
+Testing/
+
+# Build artifacts
+*.o
+*.so
+*.a
+*.out
+
+# macOS
+.DS_Store
